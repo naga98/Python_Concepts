@@ -1,0 +1,49 @@
+SUPPORT TICKET SUMMARY REPORT
+========================================
+
+Total tickets: 60
+
+Tickets by category:
+  Account: 7
+  Payment: 13
+  Refund: 6
+  Technical: 13
+  Login: 13
+  Course: 8
+
+Tickets by priority:
+  High: 12
+  Critical: 9
+  Low: 22
+  Medium: 17
+
+Tickets by status:
+  In Progress: 14
+  Open: 19
+  Resolved: 15
+  Closed: 12
+
+Open tickets: 19
+Critical tickets: 9
+Resolved tickets: 15
+
+Average resolution time (all tickets): 38.08 hours
+
+Average resolution time per category:
+  Account: 35.86 hours
+  Payment: 42.69 hours
+  Refund: 37.33 hours
+  Technical: 36.62 hours
+  Login: 35.23 hours
+  Course: 40.12 hours
+
+Tickets handled per agent:
+  Bob: 17
+  Alice: 12
+  Emma: 12
+  David: 10
+  Carol: 9
+
+Maximum resolution time: 72 hours
+Ticket(s) with maximum resolution time:
+  T011 - Karen Davis (Technical, 72 hours)

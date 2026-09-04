@@ -1,0 +1,38 @@
+# ----- Python -----
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+*.pyd
+*.egg-info/
+.eggs/
+build/
+dist/
+.venv/
+venv/
+.env
+.env.*
+.pytest_cache/
+.mypy_cache/
+.coverage*
+htmlcov/
+.ipynb_checkpoints/
+
+# ----- macOS -----
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+
+# ----- VS Code -----
+.vscode/
+.history/
+*.code-workspace
+
+# ----- Misc -----
+*.log
+*.tmp
+

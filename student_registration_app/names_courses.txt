@@ -1,0 +1,11 @@
+Sudhanshu,Python
+Rahul,Data Science
+Priya,Java
+Ankit,C++
+Sneha,Python
+Karan,Web Development
+Divya,Data Science
+Manoj,Machine Learning
+Neha,Python
+Suresh,Java
+nagateja,java

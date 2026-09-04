@@ -1,0 +1,11 @@
+101,Sudhanshu,sudh@example.com,9999999999,Python,Bangalore
+102,Rahul,rahul@example.com,8888888888,Data Science,Delhi
+103,Priya,priya@example.com,7777777777,Java,Mumbai
+104,Ankit,ankit@example.com,6666666666,C++,Pune
+105,Sneha,sneha@example.com,5555555555,Python,Hyderabad
+106,Karan,karan@example.com,4444444444,Web Development,Chennai
+107,Divya,divya@example.com,3333333333,Data Science,Kolkata
+108,Manoj,manoj@example.com,2222222222,Machine Learning,Bangalore
+109,Neha,neha@example.com,1111111111,Python,Delhi
+110,Suresh,suresh@example.com,9876543210,Java,Mumbai
+9898,nagateja,naga@gmail.com,98765442,java,bengaluru

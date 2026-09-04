@@ -1,0 +1,61 @@
+ticket_id,customer_name,category,priority,status,assigned_agent,resolution_time
+T001,Patricia Smith,Account,High,In Progress,Bob,18
+T002,Patricia Lee,Payment,Critical,Open,Alice,12
+T003,Michael Davis,Refund,Low,In Progress,Emma,54
+T004,Barbara Moore,Refund,High,Open,Bob,55
+T005,David Rodriguez,Technical,Medium,Resolved,Alice,12
+T006,Richard Brown,Login,High,Resolved,Alice,59
+T007,Karen Brown,Course,Low,Resolved,Emma,47
+T008,Charles Miller,Account,Low,Open,Bob,38
+T009,James Davis,Payment,Critical,Resolved,David,47
+T010,Linda Anderson,Login,Medium,Resolved,Alice,22
+T011,Karen Davis,Technical,Critical,Closed,Carol,72
+T012,Barbara Wilson,Payment,Medium,Open,Carol,52
+T013,William Williams,Technical,High,In Progress,David,51
+T014,Joseph Jones,Login,Medium,In Progress,Emma,69
+T015,William Perez,Course,Critical,Resolved,Bob,18
+T016,Thomas Jackson,Payment,Low,Open,Bob,21
+T017,Jessica Thompson,Payment,Critical,Closed,Emma,60
+T018,Thomas Rodriguez,Refund,Low,Open,Emma,35
+T019,David Brown,Login,Critical,In Progress,David,1
+T020,William Martin,Technical,Low,Resolved,Emma,26
+T021,Robert Anderson,Technical,Low,Resolved,David,3
+T022,Patricia Anderson,Login,Medium,Open,Bob,11
+T023,James Jackson,Payment,Medium,In Progress,David,71
+T024,Linda Rodriguez,Refund,Critical,In Progress,Emma,26
+T025,Elizabeth Taylor,Account,High,Closed,Emma,58
+T026,Patricia Davis,Technical,Low,Resolved,Alice,71
+T027,Barbara Perez,Technical,Low,Open,Alice,30
+T028,James Johnson,Login,Low,In Progress,Carol,63
+T029,Michael Lee,Technical,Critical,In Progress,David,53
+T030,Michael Brown,Payment,Critical,Resolved,David,53
+T031,Joseph Johnson,Account,Low,Open,David,44
+T032,Patricia Davis,Technical,Medium,Closed,Bob,55
+T033,Linda Rodriguez,Course,Medium,Open,David,71
+T034,Patricia Johnson,Account,Low,Open,Bob,22
+T035,Jessica Jackson,Course,Medium,Closed,Alice,22
+T036,Richard Smith,Course,High,Closed,Carol,55
+T037,Karen Jackson,Technical,Medium,Resolved,Bob,8
+T038,Charles Lee,Payment,High,Open,Alice,62
+T039,Thomas Martin,Technical,Low,Open,Bob,9
+T040,Nancy Williams,Account,Medium,Closed,Alice,32
+T041,Charles Thompson,Payment,Low,Closed,Emma,67
+T042,David Rodriguez,Technical,High,In Progress,Carol,51
+T043,Robert Martinez,Course,High,Open,Alice,59
+T044,Nancy Perez,Payment,Low,In Progress,Emma,34
+T045,Robert Anderson,Payment,Medium,Resolved,Carol,21
+T046,Joseph Lee,Account,High,Open,Emma,39
+T047,Patricia Jones,Login,Low,Open,Emma,20
+T048,William Martinez,Refund,Medium,Resolved,Bob,34
+T049,Thomas Jackson,Login,Low,Open,David,36
+T050,Mary Smith,Login,Medium,Resolved,Bob,57
+T051,Karen Thomas,Refund,Low,Open,Alice,20
+T052,Karen Johnson,Login,Medium,Closed,Bob,6
+T053,Elizabeth Anderson,Payment,High,In Progress,Bob,14
+T054,Susan Lee,Course,Medium,In Progress,Bob,23
+T055,Jessica Smith,Technical,High,Closed,Bob,35
+T056,Linda Brown,Course,Low,Closed,Bob,26
+T057,Joseph Anderson,Login,Medium,In Progress,Alice,25
+T058,Richard Wilson,Login,Low,Resolved,Carol,66
+T059,Richard Lee,Login,Low,Open,Carol,23
+T060,Charles Rodriguez,Payment,Low,Closed,Carol,41
