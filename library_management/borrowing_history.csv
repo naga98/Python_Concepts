@@ -1,0 +1,3 @@
+action,book_id,title,borrower
+BORROW,259eaa94-20b1-4283-8711-07ca5daafc7a,bengalurustories,bavuma
+RETURN,259eaa94-20b1-4283-8711-07ca5daafc7a,bengalurustories,bavuma

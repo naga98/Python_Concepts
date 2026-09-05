@@ -1,0 +1,9 @@
+EMPLOYEE PAYSLIP
+Employee ID: 7b8805cf-a430-4d2a-9513-511921bb17e2
+Name: naga
+Department: IT
+Base salary: $70000.00
+Bonus: $14000.00
+Gross salary: $84000.00
+Tax: $8400.00
+Net salary: $75600.00
