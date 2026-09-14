@@ -1,0 +1,4 @@
+ERROR - Payment service unavailable
+ERROR - Report data incomplete
+ERROR - Email notification failed
+ERROR - Database connection failed

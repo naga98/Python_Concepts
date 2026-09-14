@@ -1,0 +1,39 @@
+2026-09-05 06:18:50 - INFO - ===== Student Management System started. =====
+2026-09-05 06:18:50 - INFO - No existing data file found at '/Users/naga/Python_Concepts/students_data.json'. Starting fresh.
+2026-09-05 06:19:16 - INFO - ===== Student Management System started. =====
+2026-09-05 06:19:16 - INFO - No existing data file found at '/Users/naga/Python_Concepts/students_data.json'. Starting fresh.
+2026-09-05 06:19:16 - INFO - Saved 0 student record(s) to '/Users/naga/Python_Concepts/students_data.json'.
+2026-09-05 06:19:16 - INFO - ===== Student Management System stopped. =====
+2026-09-05 06:21:30 - INFO - ===== Student Management System started. =====
+2026-09-05 06:21:30 - INFO - Loaded 0 student record(s) from '/Users/naga/Python_Concepts/students_data.json'.
+2026-09-05 06:21:41 - INFO - Search performed (id=1, name=None) -> 0 result(s).
+2026-09-05 06:21:41 - INFO - Saved 0 student record(s) to '/Users/naga/Python_Concepts/students_data.json'.
+2026-09-05 06:21:44 - INFO - Saved 0 student record(s) to '/Users/naga/Python_Concepts/students_data.json'.
+2026-09-05 06:21:44 - INFO - ===== Student Management System stopped. =====
+2026-09-05 06:23:16 - INFO - ===== Student Management System started. =====
+2026-09-05 06:23:16 - INFO - Loaded 0 student record(s) from '/Users/naga/Python_Concepts/students_data.json'.
+2026-09-05 06:29:31 - INFO - Added student 'naga' (ID: 101).
+2026-09-05 06:29:31 - INFO - Saved 1 student record(s) to '/Users/naga/Python_Concepts/students_data.json'.
+2026-09-05 06:32:47 - WARNING - Attempted to add duplicate student ID '101'.
+2026-09-05 06:32:47 - ERROR - Add student failed: Student with ID '101' already exists.
+2026-09-05 06:32:47 - INFO - Saved 1 student record(s) to '/Users/naga/Python_Concepts/students_data.json'.
+2026-09-05 06:33:46 - INFO - Added student 'teja' (ID: 102).
+2026-09-05 06:33:46 - INFO - Saved 2 student record(s) to '/Users/naga/Python_Concepts/students_data.json'.
+2026-09-05 06:33:57 - WARNING - Invalid menu choice entered: '103'.
+2026-09-05 06:34:14 - INFO - Added student 'bavuma' (ID: 103).
+2026-09-05 06:34:14 - INFO - Saved 3 student record(s) to '/Users/naga/Python_Concepts/students_data.json'.
+2026-09-05 06:35:29 - ERROR - Remove student failed: No student found with ID '789'.
+2026-09-05 06:35:29 - INFO - Saved 3 student record(s) to '/Users/naga/Python_Concepts/students_data.json'.
+2026-09-05 06:35:40 - WARNING - Invalid menu choice entered: '103'.
+2026-09-05 06:35:46 - INFO - Removed student 'bavuma' (ID: 103).
+2026-09-05 06:35:46 - INFO - Saved 2 student record(s) to '/Users/naga/Python_Concepts/students_data.json'.
+2026-09-05 06:37:28 - INFO - Updated student (ID: 102).
+2026-09-05 06:37:28 - INFO - Saved 2 student record(s) to '/Users/naga/Python_Concepts/students_data.json'.
+2026-09-05 06:38:08 - INFO - Search performed (id=101, name=None) -> 1 result(s).
+2026-09-05 06:38:08 - INFO - Saved 2 student record(s) to '/Users/naga/Python_Concepts/students_data.json'.
+2026-09-05 06:38:19 - INFO - Search performed (id=74y87432, name=None) -> 0 result(s).
+2026-09-05 06:38:19 - INFO - Saved 2 student record(s) to '/Users/naga/Python_Concepts/students_data.json'.
+2026-09-05 06:39:02 - INFO - Displayed all students (2 record(s)).
+2026-09-05 06:39:02 - INFO - Saved 2 student record(s) to '/Users/naga/Python_Concepts/students_data.json'.
+2026-09-05 06:39:27 - INFO - Saved 2 student record(s) to '/Users/naga/Python_Concepts/students_data.json'.
+2026-09-05 06:39:27 - INFO - ===== Student Management System stopped. =====

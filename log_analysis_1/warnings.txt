@@ -1,0 +1,5 @@
+WARNING - Memory usage high
+WARNING - Slow response detected
+WARNING - Disk space running low
+WARNING - Too many requests detected
+WARNING - Invalid cache entry removed

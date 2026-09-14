@@ -33,6 +33,5 @@ Icon?
 *.code-workspace
 
 # ----- Misc -----
-*.log
 *.tmp
 

@@ -1,0 +1,8 @@
+2026-09-14 16:51:02,350 INFO Added expense 99b49ddd-6321-4ee7-9380-842277fc4a9f
+2026-09-14 16:52:37,873 INFO Added expense a36858ac-947e-4051-a39b-288bb3b8418a
+2026-09-14 16:53:15,044 INFO Added expense 45bba90e-c22b-4623-afec-9b8c9dad38a5
+2026-09-14 16:53:58,906 INFO Updated expense 45bba90e-c22b-4623-afec-9b8c9dad38a5
+2026-09-14 16:55:09,012 INFO Deleted expense a36858ac-947e-4051-a39b-288bb3b8418a
+2026-09-14 16:56:21,441 INFO Exported report to expense_report.csv
+2026-09-14 16:56:46,361 INFO Added expense c88d7d59-5a20-4945-97c5-f9a1c9a52582
+2026-09-14 16:56:56,972 INFO Exported report to expense_report.csv

@@ -1,0 +1,10 @@
+2026-09-05 16:44:12,279 INFO Created account 7e72cc97-be90-4d37-b06e-201e91036a8c
+2026-09-05 16:48:22,092 ERROR Transaction failed: Account not found: 764565
+2026-09-05 16:48:58,638 ERROR Transaction failed: Account not found: 259eaa94-20b1-4283-8711-07ca5daafc7a
+2026-09-05 16:49:18,109 INFO Deposited 222.00 to 7e72cc97-be90-4d37-b06e-201e91036a8c
+2026-09-05 16:49:46,426 INFO Deposited 567.00 to 7e72cc97-be90-4d37-b06e-201e91036a8c
+2026-09-05 16:49:53,992 ERROR Transaction failed: Amount must be greater than zero.
+2026-09-05 16:51:46,252 INFO Created account f8b2b9d6-e66a-47c4-99a8-ab2194e68b8c
+2026-09-05 16:52:07,016 INFO Withdrew 100.00 from 7e72cc97-be90-4d37-b06e-201e91036a8c
+2026-09-05 16:52:25,423 ERROR Transaction failed: Insufficient balance in account: 7e72cc97-be90-4d37-b06e-201e91036a8c
+2026-09-05 16:53:06,783 INFO Transferred 250.00 from 7e72cc97-be90-4d37-b06e-201e91036a8c to f8b2b9d6-e66a-47c4-99a8-ab2194e68b8c
