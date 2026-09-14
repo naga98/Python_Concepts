@@ -1,7 +1,6 @@
 from collections import Counter
 from pathlib import Path
 
-
 LOG_FILE = Path(__file__).with_name("application.log")
 ERROR_FILE = Path(__file__).with_name("errors.txt")
 WARNING_FILE = Path(__file__).with_name("warnings.txt")
@@ -11,7 +10,6 @@ def read_log():
     """Read the entire log file and return non-empty entries."""
     with LOG_FILE.open("r", encoding="utf-8") as file:
         return [line.strip() for line in file if line.strip()]
-
 
 def count_levels(entries):
     counts = Counter()
@@ -39,6 +37,7 @@ def pandas_frequency_analysis(entries):
 
 def main():
     entries = read_log()
+    print(entries)
     counts = count_levels(entries)
     error_count = save_matching_entries(entries, "ERROR", ERROR_FILE)
     warning_count = save_matching_entries(entries, "WARNING", WARNING_FILE)
