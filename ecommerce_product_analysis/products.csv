@@ -1,0 +1,56 @@
+product_id,product_name,category,brand,price,rating,stock,discount
+P001,Dell Inspiron 15,Laptop,Dell,54990,4.2,25,10
+P002,HP Pavilion 14,Laptop,HP,62990,4.4,18,12
+P003,Lenovo IdeaPad Slim 3,Laptop,Lenovo,45990,4.0,32,8
+P004,Asus VivoBook 16,Laptop,Asus,49990,4.1,7,15
+P005,Apple MacBook Air M2,Laptop,Apple,114900,4.8,12,5
+P006,Acer Aspire 7,Laptop,Acer,58990,4.3,21,14
+P007,MSI Modern 14,Laptop,MSI,52990,3.9,9,10
+P008,Dell XPS 13,Laptop,Dell,129990,4.7,6,7
+P009,HP Victus Gaming,Laptop,HP,72990,4.5,15,18
+P010,Lenovo Legion 5,Laptop,Lenovo,98990,4.6,11,12
+P011,Apple iPhone 15,Mobile,Apple,79900,4.7,40,6
+P012,Samsung Galaxy S24,Mobile,Samsung,74999,4.6,35,10
+P013,OnePlus 12R,Mobile,OnePlus,42999,4.4,50,12
+P014,Xiaomi 14 Pro,Mobile,Xiaomi,59999,4.3,28,15
+P015,Realme GT 6,Mobile,Realme,34999,4.1,60,18
+P016,Vivo V30 Pro,Mobile,Vivo,41999,4.0,22,8
+P017,Oppo Reno 12,Mobile,Oppo,32999,3.9,19,14
+P018,Google Pixel 8,Mobile,Google,67999,4.5,8,9
+P019,Samsung Galaxy M35,Mobile,Samsung,18999,4.2,75,20
+P020,Motorola Edge 50,Mobile,Motorola,27999,4.0,31,16
+P021,Sony WH-1000XM5,Headphones,Sony,29990,4.8,14,10
+P022,Bose QuietComfort 45,Headphones,Bose,26900,4.6,9,12
+P023,JBL Tune 760NC,Headphones,JBL,5999,4.2,85,25
+P024,boAt Rockerz 550,Headphones,boAt,2499,4.0,120,30
+P025,Apple AirPods Max,Headphones,Apple,59900,4.5,5,5
+P026,Sennheiser HD 450BT,Headphones,Sennheiser,12990,4.3,17,15
+P027,Sony WF-C700N,Headphones,Sony,8999,4.1,44,18
+P028,Noise Buds VS104,Headphones,Noise,1499,3.8,150,35
+P029,Logitech MX Keys,Keyboard,Logitech,9995,4.7,23,10
+P030,Keychron K2 Wireless,Keyboard,Keychron,8499,4.6,16,8
+P031,Razer BlackWidow V4,Keyboard,Razer,15999,4.4,7,12
+P032,HP Wired Keyboard K100,Keyboard,HP,699,3.7,200,20
+P033,Dell KB216,Keyboard,Dell,899,3.9,180,15
+P034,Corsair K70 RGB,Keyboard,Corsair,17990,4.5,6,10
+P035,Zebronics Max Plus,Keyboard,Zebronics,1799,4.0,95,25
+P036,LG UltraGear 27GP850,Monitor,LG,38990,4.6,13,12
+P037,Samsung Odyssey G5,Monitor,Samsung,27999,4.4,20,15
+P038,Dell UltraSharp U2723QE,Monitor,Dell,54990,4.7,5,8
+P039,Acer Nitro VG240Y,Monitor,Acer,11999,4.2,38,18
+P040,BenQ GW2480,Monitor,BenQ,9990,4.1,27,10
+P041,Asus TUF VG249Q1A,Monitor,Asus,14999,4.3,9,14
+P042,HP M24f FHD,Monitor,HP,10499,4.0,42,12
+P043,Apple iPad Air M2,Tablet,Apple,59900,4.7,10,5
+P044,Samsung Galaxy Tab S9,Tablet,Samsung,72999,4.6,8,10
+P045,Lenovo Tab P12,Tablet,Lenovo,29999,4.2,24,15
+P046,Xiaomi Pad 6,Tablet,Xiaomi,26999,4.3,30,12
+P047,Realme Pad 2,Tablet,Realme,17999,3.9,45,20
+P048,OnePlus Pad Go,Tablet,OnePlus,19999,4.1,18,14
+P049,Apple Magic Mouse,Accessories,Apple,8500,4.0,26,6
+P050,Logitech MX Master 3S,Accessories,Logitech,9495,4.8,19,10
+P051,Anker 65W GaN Charger,Accessories,Anker,3499,4.5,70,15
+P052,SanDisk 128GB Pendrive,Accessories,SanDisk,1099,4.3,240,20
+P053,WD My Passport 2TB,Accessories,WD,6999,4.4,33,12
+P054,Zebronics Laptop Bag,Accessories,Zebronics,899,3.8,110,25
+P055,Portronics Laptop Stand,Accessories,Portronics,1299,4.1,64,18
