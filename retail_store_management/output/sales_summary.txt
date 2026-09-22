@@ -1,0 +1,61 @@
+=======================================================
+RETAIL STORE SALES REPORT
+=======================================================
+
+Total Transactions       : 60
+Total Quantity Sold      : 138
+Total Revenue            : Rs.1,529,574.00
+Average Transaction Value: Rs.25,492.90
+
+Highest-Value Transaction: T0035 - Samsung Galaxy Tab S9 (Rs.145,998.00)
+Lowest-Value Transaction : T0021 - Rich Dad Poor Dad (Rs.450.00)
+
+Best Selling Product     : The Alchemist
+Lowest Selling Product   : Winter Hoodie
+Highest Revenue Category : Electronics (Rs.1,273,671.00)
+Highest Revenue City     : Hyderabad (Rs.350,684.00)
+Most Used Payment Method : Cash on Delivery (16 transactions)
+
+-------------------------------------------------------
+REVENUE BY CATEGORY
+-------------------------------------------------------
+  Electronics     Rs.  1,273,671.00
+  Books           Rs.    129,640.00
+  Clothing        Rs.    126,263.00
+
+-------------------------------------------------------
+REVENUE BY CITY
+-------------------------------------------------------
+  Hyderabad       Rs.    350,684.00
+  Kolkata         Rs.    312,765.00
+  Bangalore       Rs.    309,139.00
+  Chennai         Rs.    159,882.00
+  Pune            Rs.    154,263.00
+  Mumbai          Rs.    139,829.00
+  Jaipur          Rs.     85,217.00
+  Delhi           Rs.     17,795.00
+
+-------------------------------------------------------
+TOP 5 PRODUCTS BY REVENUE
+-------------------------------------------------------
+  Samsung Galaxy S24               Rs.    299,996.00
+  Samsung Galaxy Tab S9            Rs.    218,997.00
+  Canon EOS 1500D Camera           Rs.    167,996.00
+  Sony WH-1000XM5 Headphones       Rs.    119,960.00
+  LG UltraGear Monitor 27          Rs.    116,970.00
+
+-------------------------------------------------------
+LOW STOCK ALERT (stock < 10)
+-------------------------------------------------------
+  Apple MacBook Air M2               9 left
+  LG UltraGear Monitor 27            7 left
+  Samsung Galaxy Tab S9              6 left
+  Running Shorts                     8 left
+  Sapiens                            5 left
+  Canon EOS 1500D Camera             4 left
+  Leather Jacket                     6 left
+  Deep Work                          9 left
+
+=======================================================
+END OF REPORT
+=======================================================

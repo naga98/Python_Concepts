@@ -1,0 +1,61 @@
+transaction_id,product_id,product_name,category,quantity,price,customer_city,payment_method
+T0001,B003,Clean Code,Books,2,3200.0,Kolkata,Wallet
+T0002,E004,Samsung Galaxy S24,Electronics,1,74999.0,Mumbai,Debit Card
+T0003,E004,Samsung Galaxy S24,Electronics,1,74999.0,Bangalore,UPI
+T0004,C009,Leather Jacket,Clothing,4,7499.0,Mumbai,Credit Card
+T0005,E006,Sony WH-1000XM5 Headphones,Electronics,2,29990.0,Bangalore,Cash on Delivery
+T0006,E008,Logitech MX Master 3S Mouse,Electronics,2,9495.0,Bangalore,Cash on Delivery
+T0007,E011,Canon EOS 1500D Camera,Electronics,1,41999.0,Chennai,UPI
+T0008,E009,Keychron K2 Keyboard,Electronics,3,8499.0,Kolkata,Credit Card
+T0009,E008,Logitech MX Master 3S Mouse,Electronics,5,9495.0,Pune,Cash on Delivery
+T0010,C002,Slim Fit Denim Jeans,Clothing,1,3499.0,Chennai,Debit Card
+T0011,E007,LG UltraGear Monitor 27,Electronics,1,38990.0,Bangalore,Cash on Delivery
+T0012,C004,Formal Blazer,Clothing,4,6999.0,Kolkata,Debit Card
+T0013,B008,Rich Dad Poor Dad,Books,5,450.0,Jaipur,Debit Card
+T0014,B002,Fluent Python,Books,2,3999.0,Delhi,Wallet
+T0015,C006,Running Shorts,Clothing,1,1499.0,Pune,Cash on Delivery
+T0016,B010,The Pragmatic Programmer,Books,3,3499.0,Jaipur,Debit Card
+T0017,E005,Apple iPhone 15,Electronics,1,79900.0,Kolkata,Credit Card
+T0018,B004,Atomic Habits,Books,2,699.0,Jaipur,Net Banking
+T0019,E003,Apple MacBook Air M2,Electronics,1,114900.0,Hyderabad,Debit Card
+T0020,B005,The Alchemist,Books,5,399.0,Jaipur,Cash on Delivery
+T0021,B008,Rich Dad Poor Dad,Books,1,450.0,Mumbai,Debit Card
+T0022,B009,Deep Work,Books,1,799.0,Bangalore,Wallet
+T0023,B002,Fluent Python,Books,5,3999.0,Jaipur,Debit Card
+T0024,B007,Data Science from Scratch,Books,3,2899.0,Bangalore,Net Banking
+T0025,B005,The Alchemist,Books,2,399.0,Mumbai,Net Banking
+T0026,E004,Samsung Galaxy S24,Electronics,1,74999.0,Pune,Credit Card
+T0027,C006,Running Shorts,Clothing,4,1499.0,Kolkata,Net Banking
+T0028,E006,Sony WH-1000XM5 Headphones,Electronics,1,29990.0,Jaipur,Net Banking
+T0029,C008,Kurta Set,Clothing,2,2499.0,Kolkata,Cash on Delivery
+T0030,C008,Kurta Set,Clothing,4,2499.0,Hyderabad,Wallet
+T0031,B007,Data Science from Scratch,Books,2,2899.0,Delhi,UPI
+T0032,C002,Slim Fit Denim Jeans,Clothing,2,3499.0,Chennai,Wallet
+T0033,C005,Winter Hoodie,Clothing,1,2999.0,Jaipur,Cash on Delivery
+T0034,C002,Slim Fit Denim Jeans,Clothing,3,3499.0,Pune,UPI
+T0035,E010,Samsung Galaxy Tab S9,Electronics,2,72999.0,Hyderabad,Cash on Delivery
+T0036,B003,Clean Code,Books,2,3200.0,Bangalore,Net Banking
+T0037,E011,Canon EOS 1500D Camera,Electronics,2,41999.0,Kolkata,Net Banking
+T0038,E007,LG UltraGear Monitor 27,Electronics,2,38990.0,Kolkata,UPI
+T0039,C003,Round Neck T-Shirt,Clothing,1,999.0,Chennai,Net Banking
+T0040,C001,Cotton Casual Shirt,Clothing,1,1799.0,Hyderabad,Cash on Delivery
+T0041,E004,Samsung Galaxy S24,Electronics,1,74999.0,Bangalore,Cash on Delivery
+T0042,E010,Samsung Galaxy Tab S9,Electronics,1,72999.0,Hyderabad,Cash on Delivery
+T0043,E002,HP Pavilion 14 Laptop,Electronics,1,62990.0,Chennai,Cash on Delivery
+T0044,B007,Data Science from Scratch,Books,2,2899.0,Pune,Debit Card
+T0045,B006,Sapiens,Books,4,899.0,Mumbai,UPI
+T0046,B010,The Pragmatic Programmer,Books,4,3499.0,Jaipur,Net Banking
+T0047,B002,Fluent Python,Books,1,3999.0,Delhi,UPI
+T0048,B004,Atomic Habits,Books,3,699.0,Jaipur,Wallet
+T0049,C001,Cotton Casual Shirt,Clothing,5,1799.0,Bangalore,Credit Card
+T0050,B006,Sapiens,Books,2,899.0,Bangalore,Cash on Delivery
+T0051,B002,Fluent Python,Books,1,3999.0,Pune,Cash on Delivery
+T0052,B006,Sapiens,Books,2,899.0,Hyderabad,Credit Card
+T0053,B004,Atomic Habits,Books,2,699.0,Chennai,Credit Card
+T0054,E011,Canon EOS 1500D Camera,Electronics,1,41999.0,Chennai,Cash on Delivery
+T0055,B010,The Pragmatic Programmer,Books,3,3499.0,Bangalore,UPI
+T0056,C008,Kurta Set,Clothing,4,2499.0,Pune,Credit Card
+T0057,B005,The Alchemist,Books,4,399.0,Hyderabad,Debit Card
+T0058,E006,Sony WH-1000XM5 Headphones,Electronics,1,29990.0,Mumbai,Credit Card
+T0059,B009,Deep Work,Books,2,799.0,Hyderabad,Credit Card
+T0060,B009,Deep Work,Books,5,799.0,Bangalore,Net Banking

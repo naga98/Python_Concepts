@@ -1,0 +1,28 @@
+product_id,product_name,category,units_sold,transactions,revenue,brand,price,stock
+E004,Samsung Galaxy S24,Electronics,4,4,299996.0,Samsung,74999.0,35
+E010,Samsung Galaxy Tab S9,Electronics,3,2,218997.0,Samsung,72999.0,6
+E011,Canon EOS 1500D Camera,Electronics,4,3,167996.0,Canon,41999.0,4
+E006,Sony WH-1000XM5 Headphones,Electronics,4,3,119960.0,Sony,29990.0,14
+E007,LG UltraGear Monitor 27,Electronics,3,2,116970.0,LG,38990.0,7
+E003,Apple MacBook Air M2,Electronics,1,1,114900.0,Apple,114900.0,9
+E005,Apple iPhone 15,Electronics,1,1,79900.0,Apple,79900.0,22
+E008,Logitech MX Master 3S Mouse,Electronics,7,2,66465.0,Logitech,9495.0,40
+E002,HP Pavilion 14 Laptop,Electronics,1,1,62990.0,HP,62990.0,18
+B002,Fluent Python,Books,9,4,35991.0,OReilly,3999.0,20
+B010,The Pragmatic Programmer,Books,10,3,34990.0,Pearson,3499.0,11
+C009,Leather Jacket,Clothing,4,1,29996.0,Woodland,7499.0,6
+C004,Formal Blazer,Clothing,4,1,27996.0,Raymond,6999.0,12
+E009,Keychron K2 Keyboard,Electronics,3,1,25497.0,Keychron,8499.0,16
+C008,Kurta Set,Clothing,10,3,24990.0,Fabindia,2499.0,27
+C002,Slim Fit Denim Jeans,Clothing,6,3,20994.0,Levis,3499.0,45
+B007,Data Science from Scratch,Books,7,3,20293.0,OReilly,2899.0,18
+B003,Clean Code,Books,4,2,12800.0,Pearson,3200.0,33
+C001,Cotton Casual Shirt,Clothing,6,2,10794.0,Allen Solly,1799.0,60
+C006,Running Shorts,Clothing,5,2,7495.0,Adidas,1499.0,8
+B006,Sapiens,Books,8,3,7192.0,Vintage,899.0,5
+B009,Deep Work,Books,8,3,6392.0,Piatkus,799.0,9
+B004,Atomic Habits,Books,7,3,4893.0,Penguin,699.0,150
+B005,The Alchemist,Books,11,3,4389.0,HarperCollins,399.0,200
+C005,Winter Hoodie,Clothing,1,1,2999.0,Nike,2999.0,38
+B008,Rich Dad Poor Dad,Books,6,2,2700.0,Plata,450.0,180
+C003,Round Neck T-Shirt,Clothing,1,1,999.0,Puma,999.0,120

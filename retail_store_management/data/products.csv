@@ -1,0 +1,33 @@
+product_id,name,brand,category,price,stock,warranty,model,size,material,author,publisher
+E001,Dell Inspiron 15 Laptop,Dell,Electronics,54990.0,25,2,INS-15-3520,,,,
+E002,HP Pavilion 14 Laptop,HP,Electronics,62990.0,18,2,PAV-14-EC1,,,,
+E003,Apple MacBook Air M2,Apple,Electronics,114900.0,9,1,MBA-M2-256,,,,
+E004,Samsung Galaxy S24,Samsung,Electronics,74999.0,35,1,SM-S921B,,,,
+E005,Apple iPhone 15,Apple,Electronics,79900.0,22,1,A3090,,,,
+E006,Sony WH-1000XM5 Headphones,Sony,Electronics,29990.0,14,2,WH1000XM5,,,,
+E007,LG UltraGear Monitor 27,LG,Electronics,38990.0,7,3,27GP850,,,,
+E008,Logitech MX Master 3S Mouse,Logitech,Electronics,9495.0,40,1,MX3S,,,,
+E009,Keychron K2 Keyboard,Keychron,Electronics,8499.0,16,1,K2-V2,,,,
+E010,Samsung Galaxy Tab S9,Samsung,Electronics,72999.0,6,1,SM-X710,,,,
+C001,Cotton Casual Shirt,Allen Solly,Clothing,1799.0,60,,,M,Cotton,,
+C002,Slim Fit Denim Jeans,Levis,Clothing,3499.0,45,,,32,Denim,,
+C003,Round Neck T-Shirt,Puma,Clothing,999.0,120,,,L,Cotton Blend,,
+C004,Formal Blazer,Raymond,Clothing,6999.0,12,,,40,Polyester Wool,,
+C005,Winter Hoodie,Nike,Clothing,2999.0,38,,,XL,Fleece,,
+C006,Running Shorts,Adidas,Clothing,1499.0,8,,,M,Polyester,,
+C007,Silk Saree,Nalli,Clothing,8999.0,15,,,Free,Silk,,
+C008,Kurta Set,Fabindia,Clothing,2499.0,27,,,L,Khadi Cotton,,
+B001,Python Crash Course,No Starch Press,Books,2499.0,50,,,,,Eric Matthes,No Starch Press
+B002,Fluent Python,OReilly,Books,3999.0,20,,,,,Luciano Ramalho,OReilly Media
+B003,Clean Code,Pearson,Books,3200.0,33,,,,,Robert C. Martin,Prentice Hall
+B004,Atomic Habits,Penguin,Books,699.0,150,,,,,James Clear,Penguin Random House
+B005,The Alchemist,HarperCollins,Books,399.0,200,,,,,Paulo Coelho,HarperCollins
+B006,Sapiens,Vintage,Books,899.0,5,,,,,Yuval Noah Harari,Vintage Books
+B007,Data Science from Scratch,OReilly,Books,2899.0,18,,,,,Joel Grus,OReilly Media
+E011,Canon EOS 1500D Camera,Canon,Electronics,41999.0,4,2,EOS-1500D,,,,
+E012,boAt Rockerz 550,boAt,Electronics,2499.0,95,1,RKZ-550,,,,
+C009,Leather Jacket,Woodland,Clothing,7499.0,6,,,L,Genuine Leather,,
+C010,Sports Track Pants,Reebok,Clothing,1899.0,52,,,M,Polyester,,
+B008,Rich Dad Poor Dad,Plata,Books,450.0,180,,,,,Robert Kiyosaki,Plata Publishing
+B009,Deep Work,Piatkus,Books,799.0,9,,,,,Cal Newport,Piatkus Books
+B010,The Pragmatic Programmer,Pearson,Books,3499.0,11,,,,,Andrew Hunt,Addison-Wesley

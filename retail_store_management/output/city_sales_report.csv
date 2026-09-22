@@ -1,0 +1,9 @@
+customer_city,transactions,units_sold,revenue,avg_transaction_value
+Hyderabad,8,17,350684.0,43835.5
+Kolkata,8,20,312765.0,39095.62
+Bangalore,12,28,309139.0,25761.58
+Chennai,7,9,159882.0,22840.29
+Pune,7,17,154263.0,22037.57
+Mumbai,6,13,139829.0,23304.83
+Jaipur,9,29,85217.0,9468.56
+Delhi,3,5,17795.0,5931.67
